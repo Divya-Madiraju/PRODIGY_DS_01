@@ -1,2 +1,2 @@
 # task1
-creating a bar chart to visualize the distribution of ages or genders in a population
+creating a bar chart or histogram to visualize the distribution of ages or genders in a population
